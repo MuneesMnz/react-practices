@@ -1,10 +1,12 @@
 import Icons from "./Components/Icons";
+import Toastfy from "./Components/Toastfy";
 
 
 function App() {
   return (
     <div>
-      <Icons />
+      {/* <Icons /> */}
+      <Toastfy />
     </div>
   );
 }
