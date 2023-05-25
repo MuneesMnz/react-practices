@@ -1,9 +1,10 @@
+import Icons from "./Components/Icons";
 
 
 function App() {
   return (
     <div>
-      hello world
+      <Icons />
     </div>
   );
 }
