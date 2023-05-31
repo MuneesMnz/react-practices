@@ -1,6 +1,7 @@
 import Icons from "./Components/Icons";
 import Model from "./Components/Model";
 import Toastfy from "./Components/Toastfy";
+import Tooltips from "./Components/Tooltip";
 
 
 function App() {
@@ -8,7 +9,8 @@ function App() {
     <div>
       {/* <Icons /> */}
       {/* <Toastfy /> */}
-      <Model />
+      {/* <Model /> */}
+      <Tooltips />
     </div>
   );
 }
